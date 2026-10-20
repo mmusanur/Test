@@ -2,8 +2,8 @@
 
 This is a test repository.
 
-## Features
+## Home Section
 
-- Home
-- Notification
-- Form page
+- Category
+- Menu
+- Price
